@@ -49,7 +49,7 @@ RUN pip install Flask \
 
 RUN git clone https://github.com/rogeliorc/IEXETEC_Actividad6.git 
 
-WORKDIR /Productos_De_Datos_Entregable6
+WORKDIR /IEXETEC_Actividad6
 
 RUN pip install -r requirements.txt
 
